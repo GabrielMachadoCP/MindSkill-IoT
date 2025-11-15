@@ -50,6 +50,8 @@ O sistema monitora o ambiente e o estado do profissional e:
 
 [Wokwi](https://wokwi.com/projects/447636047050910721)
 
+<img width="1367" height="1073" alt="image" src="https://github.com/user-attachments/assets/5425f96e-de61-42fa-a091-e7cadba7b107" />
+
 
 ## 6. Dependências
 
