@@ -5,6 +5,8 @@
 - **Gabriel Machado Carrara Pimentel — RM 99880**
 - **Lourenzo — RM 99951**
 - **Vitor — RM 97758**
+  
+![mindskill](https://github.com/user-attachments/assets/7baf6756-1a81-4811-9b2c-14729b2db1b5)
 
 ## 1. Sobre o Projeto
 
